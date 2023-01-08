@@ -2081,6 +2081,7 @@ vendor/lib/libdiagjni.so
 vendor/lib/libdigital-dimming.so
 vendor/lib/libdisp-aba.so
 vendor/lib/libdisplaydebug.so
+vendor/lib/libdisplayconfig.qti.so
 vendor/lib/libdisplayqos.so
 vendor/lib/libdisplayskuutils.so
 vendor/lib/libdpmqmihal.so
@@ -2113,6 +2114,7 @@ vendor/lib/libgpu_tonemapper.so
 vendor/lib/libgpudataproducer.so
 vendor/lib/libgralloccore.so
 vendor/lib/libgrallocutils.so
+vendor/lib/libgralloc.qti.so
 vendor/lib/libgrpc++_unsecure.so
 vendor/lib/libgsl.so
 vendor/lib/libhalide_hexagon_host.so
@@ -2262,6 +2264,7 @@ vendor/lib/libqcrilNrQtiBus.so
 vendor/lib/libqcrilNrQtiMutex.so
 vendor/lib/libqcrildataaidl.so
 vendor/lib/libqcrildatactl.so
+vendor/lib/libqdMetaData.so
 vendor/lib/libqdcm-algo.so
 vendor/lib/libqdcm-json-mode-parser.so
 vendor/lib/libqdcm-mode-parser.so
@@ -3215,6 +3218,7 @@ vendor/lib64/libdigital-dimming.so
 vendor/lib64/libdiracgefwrapper.so
 vendor/lib64/libdisp-aba.so
 vendor/lib64/libdisplaydebug.so
+vendor/lib64/libdisplayconfig.qti.so
 vendor/lib64/libdisplayqos.so
 vendor/lib64/libdisplayskuutils.so
 vendor/lib64/libdpmqmihal.so
@@ -3256,6 +3260,7 @@ vendor/lib64/libgpu_tonemapper.so
 vendor/lib64/libgpudataproducer.so
 vendor/lib64/libgralloccore.so
 vendor/lib64/libgrallocutils.so
+vendor/lib64/libgralloc.qti.so
 vendor/lib64/libgrpc++_unsecure.so
 vendor/lib64/libgsl.so
 vendor/lib64/libhalide_hexagon_host.so
@@ -3436,6 +3441,7 @@ vendor/lib64/libqcrilNrSocketModule.so
 vendor/lib64/libqcrilNrVoiceModule.so
 vendor/lib64/libqcrildataaidl.so
 vendor/lib64/libqcrildatactl.so
+vendor/lib64/libqdMetaData.so
 vendor/lib64/libqdcm-algo.so
 vendor/lib64/libqdcm-json-mode-parser.so
 vendor/lib64/libqdcm-mode-parser.so

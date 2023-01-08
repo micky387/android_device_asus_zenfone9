@@ -469,12 +469,6 @@ VENDOR_SKIP_FILES_COMMON=(
     "etc/passwd"
 
     # Display
-    "lib/libqdMetaData.so"
-    "lib64/libqdMetaData.so"
-    "lib/libgralloc.qti.so"
-    "lib64/libgralloc.qti.so"
-    "lib/libdisplayconfig.qti.so"
-    "lib64/libdisplayconfig.qti.so"
     "lib/vendor.display.config@1.0.so"
     "lib/vendor.display.config@1.1.so"
     "lib/vendor.display.config@1.10.so"
